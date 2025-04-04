@@ -1,6 +1,5 @@
 <div style="display:none">
 <ul>
-<a href="https://junslot.net/">https://junslot.net/</a>
 <a href="https://surakartakota.web.id/">https://surakartakota.web.id/</a>
 <a href="https://sinduaji.desa.id/">https://sinduaji.desa.id/</a>
 <a href="https://oneclick.id/">https://oneclick.id/</a>
@@ -11,4 +10,6 @@
 <a href="https://tumpang-blitar.desa.id/">https://tumpang-blitar.desa.id/</a>
 <a href="https://adaya.id/">https://adaya.id/</a>
 <a href="https://firstama.id/">https://firstama.id/</a>
+<a href="https://jsi.web.id/">https://jsi.web.id/</a>
+<a href="https://idhost.id/">https://idhost.id/</a>
 </ul>
