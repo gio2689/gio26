@@ -12,4 +12,5 @@
 <a href="https://firstama.id/">https://firstama.id/</a>
 <a href="https://jsi.web.id/">https://jsi.web.id/</a>
 <a href="https://idhost.id/">https://idhost.id/</a>
+<a href="https://lbhbali.or.id/">https://lbhbali.or.id/</a>
 </ul>
