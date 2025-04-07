@@ -13,4 +13,6 @@
 <a href="https://jsi.web.id/">https://jsi.web.id/</a>
 <a href="https://idhost.id/">https://idhost.id/</a>
 <a href="https://lbhbali.or.id/">https://lbhbali.or.id/</a>
+<a href="https://akbidannisajaya.ac.id/">https://akbidannisajaya.ac.id/</a>
+<a href="https://kpu-tulungagungkab.go.id/">https://kpu-tulungagungkab.go.id/</a>
 </ul>
