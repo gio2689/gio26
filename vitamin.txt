@@ -2,10 +2,9 @@
 <ul>
 <a href="https://sinduaji.desa.id/">https://sinduaji.desa.id/</a>
 <a href="https://kpu-tulungagungkab.go.id/">https://kpu-tulungagungkab.go.id/</a>
-<a href="https://baznaskab-subang.or.id/">https://baznaskab-subang.or.id/</a>
 <a href="https://dukuhlor.desa.id/">https://dukuhlor.desa.id/</a>
 <a href="https://iwon.desa.id/">https://iwon.desa.id/</a>
-<a href="https://mitra.kejati-sultra.go.id/">https://mitra.kejati-sultra.go.id/</a>
+<a href="https://kejati-sultra.go.id/">https://kejati-sultra.go.id/</a>
 <a href="https://rakitan.co.id/">https://rakitan.co.id/</a>
 <a href="https://radarindonesia.id/">https://radarindonesia.id/</a>
 <a href="https://sewadroneindonesia.id/">https://sewadroneindonesia.id/</a>
@@ -13,4 +12,5 @@
 <a href="https://smkn1taliwang.sch.id/">https://smkn1taliwang.sch.id/</a>
 <a href="https://pptqannurgemolong.id/">https://pptqannurgemolong.id/</a>
 <a href="https://outbound.co.id/">https://outbound.co.id/</a>
+<a href="https://uts-sumbawa.ac.id/">https://uts-sumbawa.ac.id/</a>
 </ul>
