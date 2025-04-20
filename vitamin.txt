@@ -1,10 +1,8 @@
 <div style="display:none">
 <ul>
 <a href="https://sinduaji.desa.id/">https://sinduaji.desa.id/</a>
-<a href="https://kpu-tulungagungkab.go.id/">https://kpu-tulungagungkab.go.id/</a>
 <a href="https://dukuhlor.desa.id/">https://dukuhlor.desa.id/</a>
 <a href="https://iwon.desa.id/">https://iwon.desa.id/</a>
-<a href="https://kejati-sultra.go.id/">https://kejati-sultra.go.id/</a>
 <a href="https://rakitan.co.id/">https://rakitan.co.id/</a>
 <a href="https://radarindonesia.id/">https://radarindonesia.id/</a>
 <a href="https://sewadroneindonesia.id/">https://sewadroneindonesia.id/</a>
