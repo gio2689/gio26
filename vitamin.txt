@@ -11,8 +11,6 @@
 <a href="https://vincoworking.id/">https://vincoworking.id/</a>
 <a href="https://simpangbabeko.desa.id/">https://simpangbabeko.desa.id/</a>
 <a href="https://al-fatihhafizhmulia.sch.id/">https://al-fatihhafizhmulia.sch.id/</a>
-<a href="https://kejari-cibinong.go.id/">https://kejari-cibinong.go.id/</a>
-<a href="https://gumelemwetan.desa.id/">https://gumelemwetan.desa.id/</a>
 <a href="https://itkessu.ac.id/">https://itkessu.ac.id/</a>
 <a href="https://anggaswangi.desa.id/">https://anggaswangi.desa.id/</a>
 <a href="https://hartikaad.co.id/">https://hartikaad.co.id/</a>
@@ -24,4 +22,5 @@
 <a href="https://terasdesa.co.id/">https://terasdesa.co.id/</a>
 <a href="https://sman3bdg.sch.id/">https://sman3bdg.sch.id/</a>
 <a href="https://topbisnis.co.id/">https://topbisnis.co.id/</a>
+<a href="https://katsuq.id/">https://katsuq.id/</a>
 </ul>
