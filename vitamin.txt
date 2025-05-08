@@ -29,4 +29,5 @@
 <a href="https://proxis.co.id/">https://proxis.co.id/</a>
 <a href="https://touche.id/">https://touche.id/</a>
 <a href="https://womanradio.co.id/">https://womanradio.co.id/</a>
+<a href="https://sinduaji.desa.id/">https://sinduaji.desa.id/</a>
 </ul>
