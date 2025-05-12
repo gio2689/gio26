@@ -39,4 +39,5 @@
 <a href="https://pmiisemarang.or.id/">https://pmiisemarang.or.id/</a>
 <a href="https://terasdesa.co.id/">https://terasdesa.co.id/</a>
 <a href="https://konveksibali.co.id/">https://konveksibali.co.id/</a>
+<a href="https://sman10bdg.sch.id/">https://sman10bdg.sch.id/</a>
 </ul>
