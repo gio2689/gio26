@@ -4,4 +4,5 @@
 <a href="https://sman10bdg.sch.id/pusat/">https://sman10bdg.sch.id/pusat/</a>
 <a href="https://dm.sch.id/osis/">https://dm.sch.id/osis/</a>
 <a href="https://putramandiriabadi.id/misi/">https://putramandiriabadi.id/misi/</a>
+<a href="https://smpn17depok.sch.id/wali/">https://smpn17depok.sch.id/wali/</a>
 </ul>
