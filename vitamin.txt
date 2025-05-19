@@ -12,5 +12,4 @@
 <a href="https://kangojek.com/">https://kangojek.com/</a>
 <a href="https://dukuhlor.desa.id/pdb/">https://dukuhlor.desa.id/pdb/</a>
 <a href="https://aktanboekittinggi.ac.id/club/">https://aktanboekittinggi.ac.id/club/</a>
-
 </ul>
