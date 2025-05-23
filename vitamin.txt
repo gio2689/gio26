@@ -1,17 +1,8 @@
 <div style="display:none">
 <ul>
 <li><a href="https://rstka.id/join/">https://rstka.id/join/</a></li>
-<li><a href="https://sman10bdg.sch.id/pusat/">https://sman10bdg.sch.id/pusat/</a></li>
 <li><a href="https://dm.sch.id/osis/">https://dm.sch.id/osis/</a></li>
-<li><a href="https://putramandiriabadi.id/misi/">https://putramandiriabadi.id/misi/</a></li>
-<li><a href="https://smpn17depok.sch.id/wali/">https://smpn17depok.sch.id/wali/</a></li>
-<li><a href="https://smpn17depok.sch.id/wali/">https://smpn17depok.sch.id/wali/</a></li>
-<li><a href="https://hardosoloplast.co.id/">https://hardosoloplast.co.id/</a></li>
-<li><a href="https://smpn17depok.sch.id/wali/">https://smpn17depok.sch.id/wali/</a></li>
 <li><a href="https://dm.sch.id/">https://dm.sch.id/</a></li>
-<li><a href="https://kangojek.com/">https://kangojek.com/</a></li>
-<li><a href="https://dukuhlor.desa.id/pdb/">https://dukuhlor.desa.id/pdb/</a></li>
-<li><a href="https://aktanboekittinggi.ac.id/club/">https://aktanboekittinggi.ac.id/club/</a></li>
 <li><a href="https://yuridis.id/">https://yuridis.id/</a></li>
 <li><a href="https://kci.co.id/">https://kci.co.id/</a></li>
 </ul>
