@@ -5,4 +5,6 @@
 <li><a href="https://dm.sch.id/">https://dm.sch.id/</a></li>
 <li><a href="https://yuridis.id/">https://yuridis.id/</a></li>
 <li><a href="https://kci.co.id/">https://kci.co.id/</a></li>
+<li><a href="https://kci.co.id/plus/">https://kci.co.id/plus/</a></li>
+<li><a href="https://cakelab.co.id/game/">https://cakelab.co.id/game/</a></li>
 </ul>
