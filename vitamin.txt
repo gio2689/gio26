@@ -7,4 +7,5 @@
 <li><a href="https://kci.co.id/">https://kci.co.id/</a></li>
 <li><a href="https://kci.co.id/plus/">https://kci.co.id/plus/</a></li>
 <li><a href="https://cakelab.co.id/game/">https://cakelab.co.id/game/</a></li>
+<li><a href="https://rakyat.ac.id/vip/">https://rakyat.ac.id/vip/</a></li>
 </ul>
