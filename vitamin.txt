@@ -1,6 +1,7 @@
 <div style="display:none">
 <ul>
 <li><a href="https://rstka.id/join/">https://rstka.id/join/</a></li>
+<li><a href="klaisu.desa.id/">klaisu.desa.id/</a></li>
 <li><a href="https://dm.sch.id/osis/">https://dm.sch.id/osis/</a></li>
 <li><a href="https://dm.sch.id/">https://dm.sch.id/</a></li>
 <li><a href="https://yuridis.id/">https://yuridis.id/</a></li>
