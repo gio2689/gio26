@@ -7,5 +7,4 @@
 <li><a href="https://cakelab.co.id/game/">https://cakelab.co.id/game/</a></li>
 <li><a href="https://bangai.desa.id/">https://bangai.desa.id/</a></li>
 <li><a href="https://kanjengheritagehome.id/">https://kanjengheritagehome.id/</a></li>
-
 </ul>
