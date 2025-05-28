@@ -12,4 +12,5 @@
 <li><a href="https://guruonline.id/">https://guruonline.id/</a></li>
 <li><a href="https://pagarpuding.desa.id/">https://pagarpuding.desa.id/</a></li>
 <li><a href="https://pmiisemarang.or.id/">https://guruonline.id/</a></li>
+<li><a href="https://pasarmakassar.id/">https://pasarmakassar.id/</a></li>
 </ul>
