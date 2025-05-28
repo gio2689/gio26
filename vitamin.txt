@@ -10,4 +10,5 @@
 <li><a href="https://kanjengheritagehome.id/">https://kanjengheritagehome.id/</a></li>
 <li><a href="https://ohccuncen.or.id/">https://ohccuncen.or.id/</a></li>
 <li><a href="https://guruonline.id/">https://guruonline.id/</a></li>
+<li><a href="https://pmiisemarang.or.id/">https://guruonline.id/</a></li>
 </ul>
