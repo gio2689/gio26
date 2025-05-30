@@ -15,4 +15,5 @@
 <li><a href="https://pasarmakassar.id/">https://pasarmakassar.id/</a></li>
 <li><a href="https://pafijatim.or.id/">https://pafijatim.or.id/</a></li>
 <li><a href="https://desaweb.id/">https://desaweb.id/</a></li>
+<li><a href="https://mediajatim.id/">https://mediajatim.id/</a></li>
 </ul>
