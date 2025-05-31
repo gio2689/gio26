@@ -20,4 +20,5 @@
 <li><a href="https://automaticslidingdoor.net/">https://automaticslidingdoor.net/</a></li>
 <li><a href="https://pilates.co.id/">https://pilates.co.id/</a></li>
 <li><a href="https://jtimandiri.co.id/">https://jtimandiri.co.id/</a></li>
+<li><a href="https://pangkalmasjaya.desa.id/">https://pangkalmasjaya.desa.id/</a></li>
 </ul>
