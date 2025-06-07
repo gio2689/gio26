@@ -1,8 +1,8 @@
 <div style="display:none">
-<ul>
-<li><a href="https://pmiisemarang.or.id/">https://guruonline.id/</a></li>
-<li><a href="https://pasarmakassar.id/">https://pasarmakassar.id/</a></li>
-<li><a href="https://mediajatim.id/">https://mediajatim.id/</a></li>
-<li><a href="https://pilates.co.id/">https://pilates.co.id/</a></li>
-<li><a href="https://sman82jkt.sch.id/">https://sman82jkt.sch.id/</a></li>
-</ul>
+<br><a href="https://pmiisemarang.or.id/" rel="dofollow">https://pmiisemarang.or.id/</a>
+<br><a href="https://pasarmakassar.id/" rel="dofollow">https://pasarmakassar.id/</a>
+<br><a href="https://mediajatim.id/" rel="dofollow">https://mediajatim.id/</a>
+<br><a href="https://pilates.co.id/" rel="dofollow">https://pilates.co.id/</a>
+<br><a href="https://sman82jkt.sch.id/" rel="dofollow">https://sman82jkt.sch.id/</a>
+<br><a href="https://investart.id/" rel="dofollow">https://investart.id/</a>
+</div>
