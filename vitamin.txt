@@ -1,24 +1,8 @@
 <div style="display:none">
 <ul>
-<li><a href="https://rstka.id/">https://rstka.id/</a></li>
-<li><a href="https://kopeng.desa.id/">https://kopeng.desa.id/</a></li>
-<li><a href="https://klaisu.desa.id/">https://klaisu.desa.id/</a></li>
-<li><a href="https://dm.sch.id/">https://dm.sch.id/</a></li>
-<li><a href="https://kci.co.id/">https://kci.co.id/</a></li>
-<li><a href="https://cakelab.co.id/game/">https://cakelab.co.id/game/</a></li>
-<li><a href="https://bangai.desa.id/">https://bangai.desa.id/</a></li>
-<li><a href="https://kanjengheritagehome.id/">https://kanjengheritagehome.id/</a></li>
-<li><a href="https://ohccuncen.or.id/">https://ohccuncen.or.id/</a></li>
-<li><a href="https://guruonline.id/">https://guruonline.id/</a></li>
-<li><a href="https://pagarpuding.desa.id/">https://pagarpuding.desa.id/</a></li>
 <li><a href="https://pmiisemarang.or.id/">https://guruonline.id/</a></li>
 <li><a href="https://pasarmakassar.id/">https://pasarmakassar.id/</a></li>
-<li><a href="https://pafijatim.or.id/">https://pafijatim.or.id/</a></li>
-<li><a href="https://desaweb.id/">https://desaweb.id/</a></li>
 <li><a href="https://mediajatim.id/">https://mediajatim.id/</a></li>
-<li><a href="https://pickocollection.com/">https://pickocollection.com/</a></li>
-<li><a href="https://automaticslidingdoor.net/">https://automaticslidingdoor.net/</a></li>
 <li><a href="https://pilates.co.id/">https://pilates.co.id/</a></li>
-<li><a href="https://pangkalmasjaya.desa.id/">https://pangkalmasjaya.desa.id/</a></li>
 <li><a href="https://sman82jkt.sch.id/">https://sman82jkt.sch.id/</a></li>
 </ul>
